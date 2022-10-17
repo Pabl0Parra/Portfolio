@@ -249,7 +249,6 @@ export const projects = [
   },
   {
     name: "Budget App",
-
     desc: "With Budget App, it's easy to find the cost of building a website, made with React",
     github: "https://github.com/Pabl0Parra/Budget_App_React_v3",
   },

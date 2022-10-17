@@ -13,7 +13,11 @@ const ProjectsCard = ({ data }) => {
             <div className="d-flex px-3">
               <div className="pl-4">
                 <h3>{data.name}</h3>
-                <img src={data.image} alt="project image" />
+                <img
+                  src={data.image}
+                  alt="project image"
+                  className="img-fluid w-50"
+                />
                 <p className="description mt-3">{data.desc}</p>
                 {data.github ? (
                   <Button
