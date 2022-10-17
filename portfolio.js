@@ -189,7 +189,7 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Frontend Developer intership",
+    role: "Frontend Developer internship",
     company: "IT Academy - Barcelona Activa",
     companylogo:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1665988301/ItAcademy_oxyylj.jpg",
