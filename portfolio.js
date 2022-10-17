@@ -5,8 +5,7 @@ export const greetings = {
   title: "Hi all, I'm Pablo",
   description:
     "I'm a passionate Front End web developer with experience in JavaScript, React.js, Next.js, Vue.js & TypeScript",
-  resumeLink:
-    "https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
+  resumeLink: "",
 };
 
 export const openSource = {
@@ -28,7 +27,7 @@ export const skillsSection = {
     {
       title: "Front End Development",
       lottieAnimationFile:
-        "https://assets6.lottiefiles.com/packages/lf20_eiubpejs.json", // Path of Lottie Animation JSON File
+        "https://assets6.lottiefiles.com/packages/lf20_eiubpejs.json",
       skills: [
         emoji(
           "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in React.js"
@@ -84,7 +83,7 @@ export const skillsSection = {
     },
     {
       title: "Backend",
-      lottieAnimationFile: "/lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "/lottie/skills/cloudinfra.json",
       skills: [
         emoji("⚡ Experience working on cloud databases"),
         emoji(
@@ -95,7 +94,6 @@ export const skillsSection = {
         ),
       ],
       softwareSkills: [
-        // ? Check README To get icon details
         {
           skillName: "Firebase",
           fontAwesomeClassname: "logos:firebase",
@@ -128,73 +126,28 @@ export const skillsSection = {
           skillName: "Cloudinary",
           fontAwesomeClassname: "logos:cloudinary",
         },
-        // {
-        //   skillName: "Nginx",
-        //   fontAwesomeClassname: "logos:nginx",
-        // },
-        // {
-        //   skillName: "Sentry",
-        //   fontAwesomeClassname: "logos:sentry-icon",
-        // },
       ],
     },
-    // {
-    //   title: "Blockchain",
-    //   lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
-    //   skills: [
-    //     emoji(
-    //       "⚡ Experience in developing Smart Contract using Solidity & Ethereum"
-    //     ),
-    //     emoji(
-    //       "⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura"
-    //     ),
-    //     emoji(
-    //       "⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
-    //     ),
-    //     emoji("⚡ Developing NFT Smart Contracts using ERC-721 Token Standard"),
-    //     emoji(
-    //       "⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS"
-    //     ),
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Ethereum",
-    //       fontAwesomeClassname: "logos:ethereum",
-    //     },
-    //     {
-    //       skillName: "Solidity",
-    //       fontAwesomeClassname: "logos:solidity",
-    //     },
-    //     {
-    //       skillName: "Web3js",
-    //       fontAwesomeClassname: "logos:web3js",
-    //     },
-    //     {
-    //       skillName: "Metamask",
-    //       fontAwesomeClassname: "logos:metamask-icon",
-    //     },
-    //     {
-    //       skillName: "Ganache",
-    //       fontAwesomeClassname: "logos:ganache-icon",
-    //     },
-    //   ],
-    // },
   ],
 };
-// export const SkillBars = [
-//   {
-//     Stack: "Frontend/Design", //Insert stack or technology you have experience in
-//     progressPercentage: "90", //Insert relative proficiency in percentage
-//   },
-//   {
-//     Stack: "Backend",
-//     progressPercentage: "70",
-//   },
-//   {
-//     Stack: "Programming",
-//     progressPercentage: "60",
-//   },
-// ];
+export const SkillBars = [
+  {
+    Stack: "Frontend/Design", //Insert stack or technology you have experience in
+    progressPercentage: "100", //Insert relative proficiency in percentage
+  },
+  {
+    Stack: "Backend",
+    progressPercentage: "60",
+  },
+  {
+    Language: "Spanish",
+    progressPercentage: "100",
+  },
+  {
+    Language: "English",
+    progressPercentage: "100",
+  },
+];
 
 export const educationInfo = [
   {
@@ -206,6 +159,30 @@ export const educationInfo = [
     descBullets: [
       "Spent considerable time testing applications and programs and correcting coding errors.",
       "Install, troubleshoot, and maintain information and computer systems",
+    ],
+  },
+  {
+    schoolName: "IT Academy - Barcelona Activa",
+    subHeader: "Frontend React Developer",
+    duration: "January 2022 - August 2022",
+    desc: "Condensed, immersive education program in which I've learned React framework.",
+    grade: "Grade A",
+    descBullets: [
+      "Learnt correct use of ES6, CSS, React, React Hooks, Redux & Firebase",
+      "Mantain clean & organized projects",
+      "Correct deployment on Netlify, Heroku & Vercel ",
+    ],
+  },
+  {
+    schoolName: "Ironhack",
+    subHeader: "Frontend Vue Developer",
+    duration: "August 2022 - October 2022",
+    desc: "A very condensed, immersive education program in which I've learned Vue framework.",
+    grade: "Grade A",
+    descBullets: [
+      "Learnt correct use of Vue, Pinia and Supabase",
+      "Build apps with Vue",
+      "Deploy those apps",
     ],
   },
 ];
@@ -226,10 +203,6 @@ export const experience = [
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1665995215/olivia_tfqxuj.png",
     date: "Jan 2018 – Nov 2021",
     desc: "I worked as F&B Manager at a 4*S in downtown Barcelona. My duties included managing the department staff, organizing every event & the different outlets, such as the restaurant, the pool bar & room service.",
-    // descBullets: [
-    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    // ],
   },
   {
     role: "Maitre'D",
@@ -268,51 +241,50 @@ export const experience = [
 export const projects = [
   {
     name: "Taifa Clothing Line",
-    desc: "E-commerce site that I built with React 18, Redux, NextJs, TypeScript, Firebase & Stripe.",
+    desc: "E-commerce site that I built with React 18, Redux, NextJs, TypeScript, Firebase & payment with Stripe.",
     github: "https://github.com/Pabl0Parra/En_Ascuas_Forja",
     link: "https://papaya-griffin-a2aefa.netlify.app/",
   },
   {
-    name: "working here",
-    desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-    github: "https://github.com/1hanzla100/Django-React-Marketplace",
+    name: "Budget App",
+    desc: "With Budget App, it's easy to find the cost of building a website, made with React",
+    github: "https://github.com/Pabl0Parra/Budget_App_React_v3",
   },
   {
-    name: "Technota (Forum)",
-    desc: "Get hands-on experience in technical skills with Technota",
-    github: "https://github.com/1hanzla100/django-react-forum",
+    name: "Star Wars Website Clone",
+    desc: "A clone of the Star Wars site made with React",
+    github: "https://github.com/Pabl0Parra/STAR-WARS-REACT-API",
   },
   {
-    name: "Shopaza (Ecommerce)",
-    desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-    github: "https://github.com/1hanzla100/Django-ecommerce",
+    name: "Whale Done App",
+    desc: "Keep all your task under one place, a ToDo app with Vue, Pinia, Supabase & Tailwind",
+    github: "https://github.com/Pabl0Parra/ToDo-App-Vue3-Pinia-Supabase",
+    link: "https://2-do.vercel.app/",
+  },
+
+  {
+    name: "Circle Agency Static Website",
+    desc: "A clone of a static website with pure CSS & HTML5",
+    github:
+      "https://github.com/https://github.com/Pabl0Parra/Circle-Marketing-Site/Django-ecommerce",
+    link: "https://mycircle-agency.netlify.app/",
+  },
+  {
+    name: "Shopping Cart",
+    desc: "A simple shopping cart app made with pure",
+    github: "https://github.com/Pabl0Parra/ToDo-App-Vue3-Pinia-Supabase",
   },
 ];
 
-// export const feedbacks = [
-//   {
-//     name: "John Smith",
-//     feedback:
-//       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-//   },
-//   {
-//     name: "John Smith",
-//     feedback:
-//       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-//   },
-// ];
-
-// See object prototype on SEO.jsx page
 export const seoData = {
   title: "Pablo Parra",
-  description: "A passionate Frontend Web Developer and Blockchain Developer.",
+  description: "A passionate Frontend Web Developer.",
   author: "Pablo Parra",
   image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
   url: "https://developer-portfolio-1hanzla100.vercel.app",
   keywords: [
     "Pablo",
     "Pablo Parra",
-
     "Pabl0Parra",
     "Portfolio",
     "Pablo Portfolio ",
