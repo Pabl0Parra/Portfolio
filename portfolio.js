@@ -132,8 +132,8 @@ export const skillsSection = {
 };
 export const SkillBars = [
   {
-    Stack: "Frontend/Design", //Insert stack or technology you have experience in
-    progressPercentage: "100", //Insert relative proficiency in percentage
+    Stack: "Frontend/Design",
+    progressPercentage: "100",
   },
   {
     Stack: "Backend",
@@ -241,12 +241,15 @@ export const experience = [
 export const projects = [
   {
     name: "Taifa Clothing Line",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666030458/TODO_v00fet.png",
     desc: "E-commerce site that I built with React 18, Redux, NextJs, TypeScript, Firebase & payment with Stripe.",
     github: "https://github.com/Pabl0Parra/En_Ascuas_Forja",
     link: "https://papaya-griffin-a2aefa.netlify.app/",
   },
   {
     name: "Budget App",
+
     desc: "With Budget App, it's easy to find the cost of building a website, made with React",
     github: "https://github.com/Pabl0Parra/Budget_App_React_v3",
   },
