@@ -77,8 +77,8 @@ export const skillsSection = {
           fontAwesomeClassname: "logos:pinia",
         },
         {
-          skillName: "NodeJs",
-          fontAwesomeClassname: "logos:node",
+          skillName: "NPM",
+          fontAwesomeClassname: "logos:npm",
         },
       ],
     },
@@ -181,7 +181,6 @@ export const skillsSection = {
     // },
   ],
 };
-
 // export const SkillBars = [
 //   {
 //     Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -199,7 +198,7 @@ export const skillsSection = {
 
 export const educationInfo = [
   {
-    schoolName: "Georgia Piedmont Technical College",
+    schoolName: "Georgia Piedmont Technical College, Atlanta (USA)",
     subHeader: "Associate Degree in Computer Programming",
     duration: "September 2001 - April 2003",
     desc: "Developed programming & analytical skills.",
@@ -218,7 +217,7 @@ export const experience = [
     companylogo:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1665988301/ItAcademy_oxyylj.jpg",
     date: "Oct 2022 – Present",
-    desc: "I worked as a frontend web developer adasdasdsadasdasdasdasdasdasd.",
+    desc: "I worked as a frontend web developer for the IT Academy projects department, we are giving some issues daily & we have to find solutions for them.",
   },
   {
     role: "Maitre'D",
