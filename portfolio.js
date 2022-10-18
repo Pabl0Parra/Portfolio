@@ -241,7 +241,8 @@ export const experience = [
 export const projects = [
   {
     name: "Taifa Clothing Line",
-    image: "",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666086228/taifa_xnsazv.png",
     desc: "E-commerce site that I built with React 18, Redux, NextJs, TypeScript, Firebase & payment with Stripe.",
     github: "https://github.com/Pabl0Parra/En_Ascuas_Forja",
     link: "https://papaya-griffin-a2aefa.netlify.app/",
@@ -264,7 +265,8 @@ export const projects = [
   },
   {
     name: "Star Wars Website Clone",
-    image: "",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666086579/StarWars_zwskie.png",
     desc: "A clone of the Star Wars site made with React",
     github: "https://github.com/Pabl0Parra/STAR-WARS-REACT-API",
   },
