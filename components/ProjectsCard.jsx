@@ -8,15 +8,15 @@ const ProjectsCard = ({ data }) => {
   return (
     <Col lg="6">
       <Fade bottom duration={2000}>
-        <Card className="shadow-lg--hover shadow mt-4">
+        <Card className="shadow-lg--hover shadow mt-4 grow">
           <CardBody>
             <div className="d-flex px-3">
               <div className="pl-4">
-                <h3>{data.name}</h3>
+                <h3 className="text-center">{data.name}</h3>
                 <img
                   src={data.image}
                   alt="project image"
-                  className="img-fluid w-50"
+                  className="img-fluid w-50 margin"
                 />
                 <p className="description mt-3">{data.desc}</p>
                 {data.github ? (

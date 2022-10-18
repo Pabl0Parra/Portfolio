@@ -241,31 +241,37 @@ export const experience = [
 export const projects = [
   {
     name: "Taifa Clothing Line",
-    image:
-      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666030458/TODO_v00fet.png",
+    image: "",
     desc: "E-commerce site that I built with React 18, Redux, NextJs, TypeScript, Firebase & payment with Stripe.",
     github: "https://github.com/Pabl0Parra/En_Ascuas_Forja",
     link: "https://papaya-griffin-a2aefa.netlify.app/",
   },
   {
     name: "Budget App",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666080640/budget_hfuijz.png",
     desc: "With Budget App, it's easy to find the cost of building a website, made with React",
     github: "https://github.com/Pabl0Parra/Budget_App_React_v3",
-  },
-  {
-    name: "Star Wars Website Clone",
-    desc: "A clone of the Star Wars site made with React",
-    github: "https://github.com/Pabl0Parra/STAR-WARS-REACT-API",
+    link: "https://budgetapp-mu.vercel.app/BudgetApp?webSite=true&seo=true&google=false&pages=4&languages=1&budgetName=Mustang&userName=Pablo",
   },
   {
     name: "Whale Done App",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666030458/TODO_v00fet.png",
     desc: "Keep all your task under one place, a ToDo app with Vue, Pinia, Supabase & Tailwind",
     github: "https://github.com/Pabl0Parra/ToDo-App-Vue3-Pinia-Supabase",
     link: "https://2-do.vercel.app/",
   },
-
+  {
+    name: "Star Wars Website Clone",
+    image: "",
+    desc: "A clone of the Star Wars site made with React",
+    github: "https://github.com/Pabl0Parra/STAR-WARS-REACT-API",
+  },
   {
     name: "Circle Agency Static Website",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666082309/circle_rjmhqc.png",
     desc: "A clone of a static website with pure CSS & HTML5",
     github:
       "https://github.com/https://github.com/Pabl0Parra/Circle-Marketing-Site/Django-ecommerce",
@@ -273,7 +279,7 @@ export const projects = [
   },
   {
     name: "Shopping Cart",
-    desc: "A simple shopping cart app made with pure",
+    desc: "A simple shopping cart app made with Vanilla Javascript",
     github: "https://github.com/Pabl0Parra/ToDo-App-Vue3-Pinia-Supabase",
   },
 ];
