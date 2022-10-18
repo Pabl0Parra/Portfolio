@@ -5,7 +5,8 @@ export const greetings = {
   title: "Hi all, I'm Pablo",
   description:
     "I'm a passionate Front End web developer with experience in JavaScript, React.js, Next.js, Vue.js & TypeScript",
-  resumeLink: "",
+  resumeLink:
+    "https://asset.cloudinary.com/dcwx2biey/a27cbf8099519207138c5e7009917418",
 };
 
 export const openSource = {
@@ -281,6 +282,8 @@ export const projects = [
   },
   {
     name: "Shopping Cart",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666090529/shopping_ofgpfv.png",
     desc: "A simple shopping cart app made with Vanilla Javascript",
     github: "https://github.com/Pabl0Parra/ToDo-App-Vue3-Pinia-Supabase",
   },

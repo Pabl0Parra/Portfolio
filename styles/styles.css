@@ -14,3 +14,7 @@ body > div:first-child {
 .grow:hover {
   transform: scale(1.1);
 }
+
+.margin-btn {
+  margin-left: 25% !important;
+}
