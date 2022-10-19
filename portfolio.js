@@ -5,8 +5,7 @@ export const greetings = {
   title: "Hi all, I'm Pablo",
   description:
     "I'm a passionate Front End web developer with experience in JavaScript, React.js, Next.js, Vue.js & TypeScript",
-  resumeLink:
-    "https://asset.cloudinary.com/dcwx2biey/a27cbf8099519207138c5e7009917418",
+  resumeLink: "https://pdfhost.io/v/9zyZ8HfF6_Pablo_CV",
 };
 
 export const openSource = {
