@@ -17,7 +17,7 @@ export const contact = {};
 
 export const socialLinks = {
   // url: "https://PablOParra.github.io/",
-  linkedin: "https://www.linkedin.com/in/pablo-parra-14488b239/",
+  linkedin: "https://www.linkedin.com/in/pablo-parra-bcn/",
   github: "https://github.com/Pabl0Parra",
 };
 
