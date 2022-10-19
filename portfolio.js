@@ -16,7 +16,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  url: "https://PablOParra.github.io/",
+  // url: "https://PablOParra.github.io/",
   linkedin: "https://www.linkedin.com/in/pablo-parra-14488b239/",
   github: "https://github.com/Pabl0Parra",
 };
