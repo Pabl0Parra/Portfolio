@@ -73,8 +73,8 @@ export const skillsSection = {
           fontAwesomeClassname: "logos:redux",
         },
         {
-          skillName: "Pinia",
-          fontAwesomeClassname: "logos:pinia",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "logos:typescript",
         },
         {
           skillName: "NPM",
@@ -126,6 +126,10 @@ export const skillsSection = {
         {
           skillName: "Cloudinary",
           fontAwesomeClassname: "logos:cloudinary",
+        },
+        {
+          skillName: "Postman",
+          fontAwesomeClassname: "logos:postman",
         },
       ],
     },
