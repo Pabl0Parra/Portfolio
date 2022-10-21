@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I'm a passionate Front End web developer with experience in JavaScript, TypeScript, ReactJS, NextJS & VueJS",
   resumeLink:
-    "https://drive.google.com/file/d/1yZn54GSP87mZ5ah-KfTNyY7uyx-rMA84/view?usp=sharing",
+    "https://drive.google.com/file/d/1AVMzYo2sN7jSptJlFlm3BVyTBQdC5J5F/view?usp=sharing",
 };
 
 export const openSource = {
