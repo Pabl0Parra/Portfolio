@@ -287,7 +287,7 @@ export const projects = [
   {
     name: "Ferrari mockup Shop",
     image:
-      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666812929/ferrariApp_iop5wz.png",
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666815965/ferrariApp_ecb4ys.png",
     desc: "A car shop made with React Vite",
     github: "https://github.com/Pabl0Parra/Ferrari-Mockup-Shop",
   },
