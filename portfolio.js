@@ -304,8 +304,9 @@ export const seoData = {
   title: "Pablo Parra",
   description: "A passionate Frontend Web Developer.",
   author: "Pablo Parra",
-  image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  image:
+    "https://res.cloudinary.com/dcwx2biey/image/upload/v1666023390/github-pic_wgnovp.jpg",
+  url: "https://pabloparra.vercel.app",
   keywords: [
     "Pablo",
     "Pablo Parra",
