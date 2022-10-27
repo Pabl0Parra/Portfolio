@@ -290,6 +290,7 @@ export const projects = [
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1666815965/ferrariApp_ecb4ys.png",
     desc: "A car shop made with React Vite",
     github: "https://github.com/Pabl0Parra/Ferrari-Mockup-Shop",
+    link: "https://ferrarislamina.vercel.app/",
   },
   {
     name: "Shopping Cart",
