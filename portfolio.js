@@ -269,6 +269,14 @@ export const projects = [
     link: "https://2-do.vercel.app/",
   },
   {
+    name: "Text-to-speech",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1667472833/readyourtext_a2mmca.png",
+    desc: "Where the highlighted text speaks, made with React & Web Speech API",
+    github: "https://github.com/Pabl0Parra/TEXT-TO-SPEECH",
+    link: "https://readyourtext.vercel.app/",
+  },
+  {
     name: "Star Wars Website Clone",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1666086579/StarWars_zwskie.png",
