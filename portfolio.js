@@ -253,6 +253,14 @@ export const projects = [
     link: "https://papaya-griffin-a2aefa.netlify.app/",
   },
   {
+    name: "Drag-and-drop ToDo App",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/video/upload/v1667838761/Vite_React_-_Google_Chrome_2022-11-07_17-30-48_dda7gj.mp4",
+    desc: "Drag-and-drop todos, made with React, Zustand, UUID & react-beautiful-dnd .",
+    github: "https://github.com/Pabl0Parra/Drag-and-drop-ToDo-App-ReactJs",
+    link: "https://tododragdrop.vercel.app/",
+  },
+  {
     name: "Budget App",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1666080640/budget_hfuijz.png",
