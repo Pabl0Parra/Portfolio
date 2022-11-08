@@ -255,7 +255,7 @@ export const projects = [
   {
     name: "Drag-and-drop ToDo App",
     image:
-      "https://res.cloudinary.com/dcwx2biey/video/upload/v1667838761/Vite_React_-_Google_Chrome_2022-11-07_17-30-48_dda7gj.mp4",
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1667902197/dndtodo_efl2lh.png",
     desc: "Drag-and-drop todos, made with React, Zustand, UUID & react-beautiful-dnd .",
     github: "https://github.com/Pabl0Parra/Drag-and-drop-ToDo-App-ReactJs",
     link: "https://tododragdrop.vercel.app/",
