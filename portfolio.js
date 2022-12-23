@@ -261,6 +261,14 @@ export const projects = [
     link: "https://tododragdrop.vercel.app/",
   },
   {
+    name: "AdCast landing page",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1671784693/adcast_cdosyf.png",
+    desc: "Landing page made with framer motion for an ads-cast product I´m working on",
+    github: "https://github.com/Pabl0Parra/ADScast",
+    link: "https://adscast.framer.website/",
+  },
+  {
     name: "Budget App",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1666080640/budget_hfuijz.png",
@@ -313,7 +321,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1666090529/shopping_ofgpfv.png",
     desc: "A simple shopping cart app made with Vanilla Javascript",
-    github: "https://github.com/Pabl0Parra/ToDo-App-Vue3-Pinia-Supabase",
+    github: "https://github.com/Pabl0Parra/Shopping-Cart",
   },
 ];
 
