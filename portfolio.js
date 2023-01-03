@@ -245,6 +245,14 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Netflix Clone",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1672730318/mini-portal_ibebql.png",
+    desc: "Netflix clone made with React 18, TypeScript, Redux, MUI & Framer Motion  .",
+    github: "https://github.com/Pabl0Parra/Netflix-clone-React-Typescript",
+    link: "http://pabl0parra-netflix-clone.netlify.app/",
+  },
+  {
     name: "Taifa Clothing Line",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1666086228/taifa_xnsazv.png",
@@ -315,13 +323,6 @@ export const projects = [
     desc: "A car shop made with React Vite",
     github: "https://github.com/Pabl0Parra/Ferrari-Mockup-Shop",
     link: "https://ferrarislamina.netlify.app",
-  },
-  {
-    name: "Shopping Cart",
-    image:
-      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666090529/shopping_ofgpfv.png",
-    desc: "A simple shopping cart app made with Vanilla Javascript",
-    github: "https://github.com/Pabl0Parra/Shopping-Cart",
   },
 ];
 
