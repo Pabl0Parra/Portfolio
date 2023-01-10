@@ -248,15 +248,23 @@ export const projects = [
     name: "Netflix Clone",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1672730318/mini-portal_ibebql.png",
-    desc: "Netflix clone made with React 18, TypeScript, Redux, MUI & Framer Motion  .",
+    desc: "Netflix clone made with React 18, TypeScript, Redux, MUI & Framer Motion.",
     github: "https://github.com/Pabl0Parra/Netflix-clone-React-Typescript",
     link: "http://pabl0parra-netflix-clone.netlify.app/",
+  },
+  {
+    name: "KingsLeague with Midudev",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1673346090/kings-league_lgguww.png",
+    desc: "An improved open source version of the KingsLeague official site. This project became global trend in Github with more than 1.2k stars in less than 3 days. Made with Astro, Tailwind, NodeJs, Hono, Cloudfare Workers, Cherry for web scraping & Vitest to test the app fucntioning.",
+    github: "https://github.com/Pabl0Parra/kings-league-project/",
+    link: "https://kingsleague.dev/",
   },
   {
     name: "Taifa Clothing Line",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1666086228/taifa_xnsazv.png",
-    desc: "E-commerce site that I built with React 18, Redux, NextJs, TypeScript, Firebase & payment with Stripe.",
+    desc: "E-commerce site that I built with React 18, Redux, NextJs, Firebase & payment with Stripe.",
     github: "https://github.com/Pabl0Parra/En_Ascuas_Forja",
     link: "https://papaya-griffin-a2aefa.netlify.app/",
   },
@@ -264,10 +272,11 @@ export const projects = [
     name: "Drag-and-drop ToDo App",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1667902197/dndtodo_efl2lh.png",
-    desc: "Drag-and-drop todos, made with React, Zustand, UUID & react-beautiful-dnd .",
+    desc: "Drag-and-drop todos, made with React, Zustand, UUID & react-beautiful-dnd.",
     github: "https://github.com/Pabl0Parra/Drag-and-drop-ToDo-App-ReactJs",
     link: "https://tododragdrop.vercel.app/",
   },
+
   {
     name: "AdCast landing page",
     image:
