@@ -21,13 +21,9 @@ If you created something awesome and want to contribute then feel free to open a
 
   <summary>Table of contents</summary>
   <ol>
-  <li><a href="#pages-&-features">Pages & Features</a></li>
-    <li>
-      <a href="#getting-started">Getting started</a>
-    </li>
-    <li>
-      <a href="#how-to-use">How to use</a>
-    </li>
+    <li><a href="#pages-&-features">Pages & Features</a></li>
+    <li><a href="#getting-started">Getting started</a></li>
+    <li><a href="#how-to-use">How to use</a></li>
     <li><a href="#linking-portfolio-to-github">Linking Portfolio to Github</a></li>
     <li><a href="#using-emojis">Using emojis</a></li>
 	<li><a href="#technologies-used">Technologies used</a></li>
