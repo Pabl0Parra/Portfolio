@@ -280,7 +280,7 @@ export const projects = [
   {
     name: "AdCast landing page",
     image:
-      "https://res.cloudinary.com/dcwx2biey/image/upload/v1671784693/adcast_cdosyf.png",
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1673349166/ads_ddjo9r.png",
     desc: "Landing page made in Framer Motion for an ads-cast product that I'm working on",
     github: "https://github.com/Pabl0Parra/ADScast",
     link: "https://adscast.framer.website/",
