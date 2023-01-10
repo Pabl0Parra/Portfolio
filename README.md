@@ -19,8 +19,9 @@ If you created something awesome and want to contribute then feel free to open a
 
 ## <details>
 
-  <summary>Sumario</summary>
+  <summary>Table of contents</summary>
   <ol>
+  <li><a href="#pages-&-features">Pages & Features</a></li>
     <li>
       <a href="#getting-started">Getting started</a>
     </li>
@@ -36,6 +37,8 @@ If you created something awesome and want to contribute then feel free to open a
     <li><a href="#author">Author</a></li>
   </ol>
 </details>
+
+## Pages & features
 
 ✔️ Summary and About me\
 ✔️ Skills\
