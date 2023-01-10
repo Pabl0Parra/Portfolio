@@ -256,7 +256,7 @@ export const projects = [
     name: "KingsLeague with Midudev",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1673346090/kings-league_lgguww.png",
-    desc: "An improved open source version of the KingsLeague official site. This project became global trend in Github with more than 1.2k stars in less than 3 days. Made with Astro, Tailwind, NodeJs, Hono, Cloudfare Workers, Cherry for web scraping & Vitest to test the app fucntioning.",
+    desc: "An improved open source version of the KingsLeague official site. This project became global trend in Github with more than 1.2k stars in less than 3 days. Made with Astro, Tailwind, NodeJs, Hono, Cloudfare Workers, Cherry & Vitest.",
     github: "https://github.com/Pabl0Parra/kings-league-project/",
     link: "https://kingsleague.dev/",
   },
