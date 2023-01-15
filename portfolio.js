@@ -23,7 +23,7 @@ export const socialLinks = {
 
 export const skillsSection = {
   title: "What I do",
-  subTitle: "FRONTEND DEVELOPER WITH REACT & VUE FRAMEWORKS",
+  subTitle: "FRONTEND DEVELOPER WITH REACT, NEXTJS & VUE FRAMEWORKS",
   data: [
     {
       title: "Front End Development",
@@ -245,6 +245,14 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Taifa Clothing Line",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666086228/taifa_xnsazv.png",
+    desc: "Complete e-commerce site that I built with React 18, Redux, NextJs, Firebase & payment with Stripe.",
+    github: "https://github.com/Pabl0Parra/En_Ascuas_Forja",
+    link: "https://papaya-griffin-a2aefa.netlify.app/",
+  },
+  {
     name: "Netflix Clone",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1672730318/mini-portal_ibebql.png",
@@ -256,18 +264,11 @@ export const projects = [
     name: "KingsLeague with Midudev",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1673346090/kings-league_lgguww.png",
-    desc: "An improved open source version of the KingsLeague official site. This project became global trend in Github with more than 1.2k stars in less than 3 days. Made with Astro, Tailwind, NodeJs, Hono, Cloudfare Workers, Cherry & Vitest.",
+    desc: "An improved open source version of the KingsLeague official site. This project became global trend in Github with more than 1.3k stars in less than 3 days. Made with Astro, Tailwind, NodeJs, Hono, Cloudfare Workers, Cherry & Vitest.",
     github: "https://github.com/Pabl0Parra/kings-league-project/",
     link: "https://kingsleague.dev/",
   },
-  {
-    name: "Taifa Clothing Line",
-    image:
-      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666086228/taifa_xnsazv.png",
-    desc: "E-commerce site that I built with React 18, Redux, NextJs, Firebase & payment with Stripe.",
-    github: "https://github.com/Pabl0Parra/En_Ascuas_Forja",
-    link: "https://papaya-griffin-a2aefa.netlify.app/",
-  },
+
   {
     name: "Drag-and-drop ToDo App",
     image:
@@ -286,6 +287,14 @@ export const projects = [
     link: "https://adscast.framer.website/",
   },
   {
+    name: "Text-to-speech",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1667472833/readyourtext_a2mmca.png",
+    desc: "Where the highlighted text speaks, made with React & Web Speech API",
+    github: "https://github.com/Pabl0Parra/TEXT-TO-SPEECH",
+    link: "https://readyourtext.vercel.app/",
+  },
+  {
     name: "Budget App",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1666080640/budget_hfuijz.png",
@@ -302,12 +311,12 @@ export const projects = [
     link: "https://2-do.vercel.app/",
   },
   {
-    name: "Text-to-speech",
+    name: "Ferrari mockup Shop",
     image:
-      "https://res.cloudinary.com/dcwx2biey/image/upload/v1667472833/readyourtext_a2mmca.png",
-    desc: "Where the highlighted text speaks, made with React & Web Speech API",
-    github: "https://github.com/Pabl0Parra/TEXT-TO-SPEECH",
-    link: "https://readyourtext.vercel.app/",
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666815965/ferrariApp_ecb4ys.png",
+    desc: "A car shop made with React Vite",
+    github: "https://github.com/Pabl0Parra/Ferrari-Mockup-Shop",
+    link: "https://ferrarislamina.netlify.app",
   },
   {
     name: "Star Wars Website Clone",
@@ -324,14 +333,6 @@ export const projects = [
     github:
       "https://github.com/https://github.com/Pabl0Parra/Circle-Marketing-Site/Django-ecommerce",
     link: "https://mycircle-agency.netlify.app/",
-  },
-  {
-    name: "Ferrari mockup Shop",
-    image:
-      "https://res.cloudinary.com/dcwx2biey/image/upload/v1666815965/ferrariApp_ecb4ys.png",
-    desc: "A car shop made with React Vite",
-    github: "https://github.com/Pabl0Parra/Ferrari-Mockup-Shop",
-    link: "https://ferrarislamina.netlify.app",
   },
 ];
 
