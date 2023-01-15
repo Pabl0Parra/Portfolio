@@ -1,27 +1,12 @@
-<h1 align="center">Welcome to developer-portfolio 👋</h1>
+<h1 align="center">Welcome to my portfolio 👋</h1>
 <a href="https://github.com/Pabl0Parra/portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Pabl0Parra/portfolio"></a><a href="https://github.com/Pabl0Parra/portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Pabl0Parra/portfolio"></a><a href="https://github.com/Pabl0Parra/portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Pabl0Parra/portfolio"></a> <a href="https://github.com/Pabl0Parra/portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Pabl0Parra/portfolio"></a>
 
-## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
+## To view live site, **[click here](https://pabloparra.vercel.app/)**.
 
-<p align="center">
-  <kbd>
-    <img src="https://github.com/Pabl0Parra/portfolio/blob/main/picture.PNG"></img>
-  </kbd>
-</p>
-
-## To view a live example, **[click here](https://pabloparra.vercel.app/)**.
-
-Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
-
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/Pabl0Parra/portfolio/issues).
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/Pabl0Parra/portfolio/pulls).
-
-## <details>
-
+<details>
   <summary>Table of contents</summary>
   <ol>
-    <li><a href="#pages-&-features">Pages & Features</a></li>
+    <li><a href="#pages-and-sections">Pages and sections</a></li>
     <li><a href="#getting-started">Getting started</a></li>
     <li><a href="#how-to-use">How to use</a></li>
     <li><a href="#linking-portfolio-to-github">Linking Portfolio to Github</a></li>
@@ -34,7 +19,7 @@ If you created something awesome and want to contribute then feel free to open a
   </ol>
 </details>
 
-## Pages & features
+## Pages and sections
 
 ✔️ Summary and About me\
 ✔️ Skills\
@@ -129,7 +114,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 👤 **Pabl0Parra**
 
 - Website: https://pabloparra.vercel.app
-- Github: [@Pabl0Parra](https://github.com/Pabl0Parra)
+
 - LinkedIn: [@PabloParra](https://linkedin.com/in/pablo-parra-bcn)
 
 ## Show your support
