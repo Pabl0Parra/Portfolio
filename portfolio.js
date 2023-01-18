@@ -261,15 +261,6 @@ export const projects = [
     link: "http://pabl0parra-netflix-clone.netlify.app/",
   },
   {
-    name: "KingsLeague with Midudev",
-    image:
-      "https://res.cloudinary.com/dcwx2biey/image/upload/v1673346090/kings-league_lgguww.png",
-    desc: "An improved open source version of the KingsLeague official site. This project became global trend in Github with more than 1.3k stars in less than 3 days. Made with Astro, Tailwind, NodeJs, Hono, Cloudfare Workers, Cherry & Vitest.",
-    github: "https://github.com/Pabl0Parra/kings-league-project/",
-    link: "https://kingsleague.dev/",
-  },
-
-  {
     name: "Drag-and-drop ToDo App",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1667902197/dndtodo_efl2lh.png",
@@ -277,7 +268,14 @@ export const projects = [
     github: "https://github.com/Pabl0Parra/Drag-and-drop-ToDo-App-ReactJs",
     link: "https://tododragdrop.vercel.app/",
   },
-
+  {
+    name: "KingsLeague with Midudev",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1673346090/kings-league_lgguww.png",
+    desc: "An improved open source version of the KingsLeague official site. This project became global trend in Github with more than 1.3k stars in less than 3 days. Made with Astro, Tailwind, NodeJs, Hono, Cloudfare Workers, Cherry & Vitest.",
+    github: "https://github.com/Pabl0Parra/kings-league-project/",
+    link: "https://kingsleague.dev/",
+  },
   {
     name: "AdCast landing page",
     image:
