@@ -348,5 +348,9 @@ export const seoData = {
     "Portfolio",
     "Pablo Portfolio ",
     "Pablo Parra Portfolio",
+    "porfolio",
+    "frontend developer",
+    "frontend",
+    "developer",
   ],
 };
