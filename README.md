@@ -105,9 +105,9 @@ Iconify Icons are used in skill section. You can find all the icons here: [Iconi
 
 If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/Pabl0Parra/portfolio/pulls).
 
-- Enable Dark Mode
+- [ ] Enable Dark Mode
 
-- Add More Sections
+- [ ] Add More Sections, like a blog...
 
 ## Author
 
