@@ -28,7 +28,7 @@ export const skillsSection = {
     {
       title: "Front End Development",
       lottieAnimationFile:
-        "https://assets6.lottiefiles.com/packages/lf20_eiubpejs.json",
+        "https://lottiefiles.com/83012-programing-languages-web-development-front-end", // fix this
       skills: [
         emoji(
           "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in React.js"
