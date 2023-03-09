@@ -4,7 +4,7 @@ export const greetings = {
   name: "Pablo Parra",
   title: "Hi all, I'm Pablo",
   description:
-    "I'm a passionate Front End web developer with experience in JavaScript, TypeScript, ReactJS, NextJS & VueJS, eager to learn every day.",
+    "I'm a passionate Front End web developer with experience in JavaScript, TypeScript, ReactJS, NextJS, VueJS and React Native, eager to learn every day.",
   resumeLink:
     "https://drive.google.com/file/d/1adkciFyWSBoYDnO51J8jfHSd94izi5eu/view?usp=share_link",
 };
