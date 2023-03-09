@@ -28,8 +28,7 @@ export const skillsSection = {
   data: [
     {
       title: "Front End Development",
-      lottieAnimationFile:
-        "https://lottiefiles.com/83012-programing-languages-web-development-front-end", // fix this
+      lottieAnimationFile: "/lottie/skills/ethereum.json", // fix this
       skills: [
         emoji(
           "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in React.js"
@@ -257,6 +256,12 @@ export const projects = [
     github: "",
     link: "https://getjobmatch.netlify.app/",
   },
+  // {
+  //   name: "ITA-game",
+  //   image: "",
+  //   github: "https://github.com/IT-Academy-BCN/ita-game",
+  //   link: "https://ita-game.vercel.app/",
+  // },
   {
     name: "Taifa Clothing Line",
     image:
