@@ -189,12 +189,12 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Frontend Developer internship",
+    role: "Frontend Developer Junior",
     company: "IT Academy - Barcelona Activa",
     companylogo:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1665988301/ItAcademy_oxyylj.jpg",
     date: "Oct 2022 – Present",
-    desc: "I worked as a frontend web developer for the IT Academy projects department, we are giving some issues daily & we have to find solutions for them.",
+    desc: "I work as a frontend web developer for the IT Academy projects department, we are currently building a real state site for Barcelona Activa.",
   },
   {
     role: "Maitre'D",
@@ -244,7 +244,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1677687347/login_ccir9u.jpg",
     desc: "This is the landing page for JobMatch, a job search app that I develop with React Native.",
-    github: "",
+    github: "https://github.com/Pabl0Parra/JobMatch",
     link: "https://getjobmatch.netlify.app/",
   },
   // {
