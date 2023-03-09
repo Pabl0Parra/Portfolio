@@ -29,9 +29,7 @@ export const skillsSection = {
       title: "Front End Development",
       lottieAnimationFile: "/lottie/skills/frontendLottie.json",
       skills: [
-        emoji(
-          "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in React.js"
-        ),
+        "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in React.js",
         emoji("⚡ Building responsive static websites using Next.js"),
         emoji(
           "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in Vue.js"
