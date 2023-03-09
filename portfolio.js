@@ -23,7 +23,8 @@ export const socialLinks = {
 
 export const skillsSection = {
   title: "What I do",
-  subTitle: "FRONTEND DEVELOPER WITH REACT, NEXTJS & VUE FRAMEWORKS",
+  subTitle:
+    "FRONTEND DEVELOPER WITH REACT, NEXTJS, VUE & REACT NATIVE FRAMEWORKS",
   data: [
     {
       title: "Front End Development",
@@ -37,6 +38,7 @@ export const skillsSection = {
         emoji(
           "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in Vue.js"
         ),
+        emoji("⚡ Building apk files for Android devices using React Native"),
       ],
       softwareSkills: [
         {
@@ -67,7 +69,10 @@ export const skillsSection = {
           skillName: "Nuxtjs",
           fontAwesomeClassname: "logos:nuxt",
         },
-
+        {
+          skillName: "React Native",
+          fontAwesomeClassname: "logos:react",
+        },
         {
           skillName: "Redux",
           fontAwesomeClassname: "logos:redux",
@@ -244,6 +249,14 @@ export const experience = [
 ];
 
 export const projects = [
+  {
+    name: "JobMatch",
+    image:
+      "https://res.cloudinary.com/dcwx2biey/image/upload/v1677687347/login_ccir9u.jpg",
+    desc: "This is the landing page for JobMatch, a job search app that I develop with React Native.",
+    github: "",
+    link: "https://getjobmatch.netlify.app/",
+  },
   {
     name: "Taifa Clothing Line",
     image:
