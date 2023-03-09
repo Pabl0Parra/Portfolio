@@ -6,6 +6,9 @@
   "repository": "https://github.com/Pabl0Parra/Portfolio",
   "author": "Pablo Parra",
   "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
