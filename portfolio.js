@@ -16,7 +16,6 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  // url: "https://PablOParra.github.io/",
   linkedin: "https://www.linkedin.com/in/pablo-parra-bcn/",
   github: "https://github.com/Pabl0Parra",
 };
@@ -28,7 +27,7 @@ export const skillsSection = {
   data: [
     {
       title: "Front End Development",
-      lottieAnimationFile: "/lottie/skills/ethereum.json", // fix this
+      lottieAnimationFile: "/lottie/skills/frontendLottie.json",
       skills: [
         emoji(
           "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in React.js"
