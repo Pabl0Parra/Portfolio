@@ -30,11 +30,9 @@ export const skillsSection = {
       lottieAnimationFile: "/lottie/skills/frontendLottie.json",
       skills: [
         "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in React.js",
-        emoji("⚡ Building responsive static websites using Next.js"),
-        emoji(
-          "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in Vue.js"
-        ),
-        emoji("⚡ Building apk files for Android devices using React Native"),
+        "⚡ Building responsive static websites using Next.js",
+        "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in Vue.js",
+        "⚡ Building apps for Android devices using React Native",
       ],
       softwareSkills: [
         {
@@ -87,13 +85,9 @@ export const skillsSection = {
       title: "Backend",
       lottieAnimationFile: "/lottie/skills/cloudinfra.json",
       skills: [
-        emoji("⚡ Experience working on cloud databases"),
-        emoji(
-          "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases"
-        ),
-        emoji(
-          "⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions"
-        ),
+        "⚡ Experience working on cloud databases",
+        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions",
       ],
       softwareSkills: [
         {
