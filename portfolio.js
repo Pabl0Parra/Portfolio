@@ -194,7 +194,7 @@ export const experience = [
     companylogo:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1665988301/ItAcademy_oxyylj.jpg",
     date: "Oct 2022 – Present",
-    desc: "I work as a frontend web developer for the IT Academy projects department, we are currently building a real state site for Barcelona Activa.",
+    desc: "I work as a frontend web developer for the IT Academy projects department, we are currently building a real state site for Barcelona Activa. Continous integration & deployment with Github Actions, bug tracking with Jira.",
   },
   {
     role: "Maitre'D",
