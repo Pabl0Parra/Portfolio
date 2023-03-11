@@ -243,7 +243,7 @@ export const projects = [
     name: "JobMatch",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1677687347/login_ccir9u.jpg",
-    desc: "This is the landing page for JobMatch, a job search app that I develop with React Native.",
+    desc: "This is the landing page for JobMatch, a job search app that I develop with React Native. The apk is available on the landing page.",
     github: "https://github.com/Pabl0Parra/JobMatch",
     link: "https://getjobmatch.netlify.app/",
   },
