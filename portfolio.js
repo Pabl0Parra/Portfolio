@@ -32,7 +32,7 @@ export const skillsSection = {
         "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in React.js",
         "⚡ Building responsive static websites using Next.js",
         "⚡ Building responsive Single-Page-Apps (SPA's) & PWA in Vue.js",
-        "⚡ Building apps for Android devices using React Native",
+        "⚡ Building apps for mobile devices using React Native",
       ],
       softwareSkills: [
         {
@@ -243,16 +243,10 @@ export const projects = [
     name: "JobMatch",
     image:
       "https://res.cloudinary.com/dcwx2biey/image/upload/v1677687347/login_ccir9u.jpg",
-    desc: "This is the landing page for JobMatch, a job search app that I develop with React Native. The apk is available on the landing page.",
+    desc: "This is the landing page for JobMatch, a job search app that I develop with React Native. The apk is available on the landing pagex    .",
     github: "https://github.com/Pabl0Parra/JobMatch",
     link: "https://getjobmatch.netlify.app/",
   },
-  // {
-  //   name: "ITA-game",
-  //   image: "",
-  //   github: "https://github.com/IT-Academy-BCN/ita-game",
-  //   link: "https://ita-game.vercel.app/",
-  // },
   {
     name: "Taifa Clothing Line",
     image:
