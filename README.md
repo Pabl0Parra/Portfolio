@@ -78,10 +78,6 @@ $ yarn dev
   githubUserName: 'YOUR GITHUB USERNAME HERE',
 ```
 
-#### Using Emojis
-
-For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` function and pass the text you need as an argument. This would help in keeping emojis compatible across different browsers and platforms.
-
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/)
